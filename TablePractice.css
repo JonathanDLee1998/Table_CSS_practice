@@ -1,0 +1,14 @@
+tr {
+  background-color: chartreuse;
+  border: brown;
+}
+#CourseTableHeader {
+  background-color: cornflowerblue;
+}
+#course-name {
+  color: darkred;
+}
+th,
+td {
+  font-family: fantasy;
+}
